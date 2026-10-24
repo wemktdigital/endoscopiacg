@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://endoscopiacg.com.br/sitemap.xml

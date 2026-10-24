@@ -1,0 +1,50 @@
+{
+  "trailingSlash": true,
+  "redirects": [
+    {
+      "source": "/3-mitos-comuns-sobre-a-colonoscopia.htm/",
+      "destination": "/3-mitos-comuns-sobre-a-colonoscopia.htm",
+      "permanent": true
+    },
+    {
+      "source": "/balao-gastrico-para-emagrecimento.htm/",
+      "destination": "/balao-gastrico-para-emagrecimento.htm",
+      "permanent": true
+    },
+    {
+      "source": "/marco-azul-combate-e-prevencao-ao-cancer-de-intestino.htm/",
+      "destination": "/marco-azul-combate-e-prevencao-ao-cancer-de-intestino.htm",
+      "permanent": true
+    },
+    {
+      "source": "/o-que-eu-considero-uma-boa-consulta-medica.htm/",
+      "destination": "/o-que-eu-considero-uma-boa-consulta-medica.htm",
+      "permanent": true
+    },
+    {
+      "source": "/preparo-de-colon-para-a-colonoscopia.htm/",
+      "destination": "/preparo-de-colon-para-a-colonoscopia.htm",
+      "permanent": true
+    },
+    {
+      "source": "/preparo-para-a-colonoscopia-e-padroes-de-qualidade-do-exame.htm/",
+      "destination": "/preparo-para-a-colonoscopia-e-padroes-de-qualidade-do-exame.htm",
+      "permanent": true
+    },
+    {
+      "source": "/preparo-para-a-endoscopia-digestiva-alta.htm/",
+      "destination": "/preparo-para-a-endoscopia-digestiva-alta.htm",
+      "permanent": true
+    },
+    {
+      "source": "/qualidade-em-endoscopia-exame-atendimento-e-documentacao-necessaria.htm/",
+      "destination": "/qualidade-em-endoscopia-exame-atendimento-e-documentacao-necessaria.htm",
+      "permanent": true
+    },
+    {
+      "source": "/uniendo-anos-de-cuidado-e-qualidade.htm/",
+      "destination": "/uniendo-anos-de-cuidado-e-qualidade.htm",
+      "permanent": true
+    }
+  ]
+}
